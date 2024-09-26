@@ -88,7 +88,8 @@ Szafranowy Targ - G7
 
 ## T
 Tesylia - D7  
-Torfowisko - D6  
+Torfowisko - D6
+Troja - A3
 Trzciana - C5  
 Trzyczaszkowo - G7  
 
